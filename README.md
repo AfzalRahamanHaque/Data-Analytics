@@ -1,0 +1,1 @@
+"Although I was initially passionate about Data Analytics, I have recently shifted my focus toward Social Media Management (SMM). However, you can still view my previous data analytics projects in this folder.
