@@ -1,6 +1,6 @@
 ## Course Name: Data Visualization in Python
 
-![Certificate Image](https://github.com/AfzalRahamanHaque/Social-Media-Manager/blob/main/SOCIAL%20MEDIA%20CERTIFICATE.png?raw=true)
+![Certificate Image]([https://github.com/AfzalRahamanHaque/Social-Media-Manager/blob/main/SOCIAL%20MEDIA%20CERTIFICATE.png?raw=true](https://github.com/AfzalRahamanHaque/Data-Analytics/blob/main/Data%20Visualization%20in%20Python%20Certificate_page-0001.jpg?raw=true))
 
 **What I learned:**
 
